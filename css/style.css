@@ -1,0 +1,19 @@
+@import"navbar.css";
+@import"wrapper.css";
+@import"main.content.css";
+@import"./alumnos_fotos.css";
+@import"./main.css";
+
+:root {
+    --black: #0A4D68;
+    --white: #ffffff
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #088395;
+}
